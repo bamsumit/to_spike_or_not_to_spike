@@ -22,7 +22,7 @@ and is usually followed by a dip in membrane potential, that occurs in
 regular or irregular intervals. The action potential is the elementary
 unit of signal transmission.
 
-![Spike Signal](spikeInVivo.png)
+![Spike Signal](spikeInVivo.png "Spike signal")
 
 Coming back to the question: what are spikes?
 _Spikes_, also called _action potential_, are a sudden surge in the potential of a neuron.
