@@ -22,7 +22,7 @@ and is usually followed by a dip in membrane potential, that occurs in
 regular or irregular intervals. The action potential is the elementary
 unit of signal transmission.
 
-![Spike Signal](spikeInVivo.png "Spike signal")
+![Spike Signal](spikeInVivo.png)__Spike signal__
 
 Coming back to the question: what are spikes?
 _Spikes_, also called _action potential_, are a sudden surge in the potential of a neuron.
@@ -94,7 +94,7 @@ and neuromorphic computing: for engineers to build brain-like machines by applyi
 
 
 ## Current State of Spiking Neural Network ##
-[![](http://img.youtube.com/vi/JGdatqqci5o/0.jpg)](https://www.youtube.com/embed/JGdatqqci5o?start=73&end=164)
+[![](snn.png)__SNN in action (click to play)__](https://www.youtube.com/embed/JGdatqqci5o?start=73&end=164)
 
 SNNs do bring added realism to artificial neural networks.
 From a theoretical sense, they are proven to have higher computational capability than the standard neural networks.
