@@ -94,7 +94,7 @@ and neuromorphic computing: for engineers to build brain-like machines by applyi
 
 
 ## Current State of Spiking Neural Network ##
-[![](snn.png)__SNN in action (click to play)__](https://www.youtube.com/embed/JGdatqqci5o?start=73&end=164)
+[![](snn.PNG)__SNN in action (click to play)__](https://www.youtube.com/embed/JGdatqqci5o?start=73&end=164)
 
 SNNs do bring added realism to artificial neural networks.
 From a theoretical sense, they are proven to have higher computational capability than the standard neural networks.
